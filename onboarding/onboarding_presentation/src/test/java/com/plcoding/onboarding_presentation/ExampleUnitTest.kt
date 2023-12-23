@@ -1,4 +1,4 @@
-package com.plcoding.onboarding_presentation
+package com.bhanurepo.onboarding_presentation
 
 import org.junit.Test
 

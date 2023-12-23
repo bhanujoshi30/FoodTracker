@@ -1,4 +1,4 @@
-package com.plcoding.onboarding_domain
+package com.bhanurepo.onboarding_domain
 
 import org.junit.Test
 

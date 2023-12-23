@@ -1,4 +1,4 @@
-package com.plcoding.core
+package com.bhanurepo.core
 
 import org.junit.Test
 
